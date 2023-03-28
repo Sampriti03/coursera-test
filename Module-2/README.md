@@ -1,4 +1,7 @@
-Module 2 coding assignment
+# Module-2 Coding Assignment
 
-[Output Here](file:///C:/Users/ASUS/Desktop/module2-solution/index.html)
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://Sampriti03.github.io/coursera-test/Module-2/index.html)
+
 
